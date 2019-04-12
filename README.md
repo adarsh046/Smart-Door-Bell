@@ -18,6 +18,7 @@ Materials:-
 
 Circuit:-
 
+(UltraSonic Sensor)
 Vcc - 5v
 
 Echo - GPIO23
