@@ -1,6 +1,7 @@
 # Smart-Door-Bell
 
-What it will do is when you wave your hand over ultrasonic sensor, It will send a picture to telegram bot or any other using webcam and starts the buzzer. This process can continue till you want.
+This system is for security purposes, Ultrasonic sensor, webcam, buzzer(doorbell), telegram has been associated.
+What it will do is when you wave your hand over ultrasonic sensor, It will send a picture to telegram bot or any other social media platform using webcam and triggers the buzzer demonstrating as a doorbell. This process can continue till you want.
 
 Materials:-
 
